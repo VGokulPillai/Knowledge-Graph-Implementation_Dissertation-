@@ -40,7 +40,8 @@ Then restart your runtime then start running the code
       
       After installing Spotipy, you will need to create an app on the Spotify Developer’s page and save your Client ID and secret key.
       Then you need to call few datasets from Data:
-          1.data.csv
+      
+          1.data.csv(This is a huge file so it is in a file called data_CSV unzip it and use it as per the code)
           2.data_by_genres.csv
           3. data_by_year.csv
           
